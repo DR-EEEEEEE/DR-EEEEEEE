@@ -6,7 +6,6 @@ Hi, I'm DR.EEEEEEE
   I'm passionate about hard- and software development💻
 </p>
 
-- 🔧 I'm currently working on EPad, a custom PC-MacroPad
 - 🌱 I’m currently learning ``Java`` & ``Python``
 - 😄 Pronouns: e/E
 - ⚡ Fun fact: I have an obsession with the letter 'E'
