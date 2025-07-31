@@ -26,7 +26,7 @@ Hi, I'm <strong>DR.EEEEEEE</strong>
 
 - **MCUs:** STM32, ESP32, RP2040, ATmega
 - **PCB Tools:** KiCad, EasyEDA, Fusion360 (sometimes)
-- **Firmware:** C/C++, MicroPython, FreeRTOS
+- **Firmware:** C/C++, MicroPython
 - **Debugging:** SWD, Logic Analyzers, Oscilloscopes, and sheer willpower
 - **Other:** Soldering, Rework, Prototyping
 
