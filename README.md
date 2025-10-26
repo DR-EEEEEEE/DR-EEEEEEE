@@ -24,7 +24,7 @@ Hi, I'm <strong>DR.EEEEEEE</strong>
 
 ### 🛠️ Tech Stack
 
-- **MCUs:** STM32, ESP32, RP2040, ATmega
+- **MCUs:** nRF52, STM32, ESP32, RP2040, ATmega
 - **PCB Tools:** KiCad, EasyEDA, Fusion360 (sometimes)
 - **Firmware:** C/C++, MicroPython
 - **Debugging:** SWD, Logic Analyzers, Oscilloscopes, and sheer willpower
